@@ -1,0 +1,17 @@
+D:\QuanLyBanRuou\QuanLyBanRuou\bin\Debug\QuanLyBanRuou.exe.config
+D:\QuanLyBanRuou\QuanLyBanRuou\bin\Debug\QuanLyBanRuou.exe
+D:\QuanLyBanRuou\QuanLyBanRuou\bin\Debug\QuanLyBanRuou.pdb
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.csprojResolveAssemblyReference.cache
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.Properties.Resources.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.csproj.GenerateResource.Cache
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.exe
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.pdb
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmLapHoaDon.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmQuanLyDanhMuc.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmQuanLyNhanVien.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmQuanLySanPham.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmXemHoaDon.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmDangNhap.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmMainAdmin.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmMainNhanVien.resources
+D:\QuanLyBanRuou\QuanLyBanRuou\obj\Debug\QuanLyBanRuou.frmTrangChu.resources

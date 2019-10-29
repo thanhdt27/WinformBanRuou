@@ -1,0 +1,9 @@
+D:\QuanLyBanRuou\BUL\bin\Debug\BUL.dll
+D:\QuanLyBanRuou\BUL\bin\Debug\BUL.pdb
+D:\QuanLyBanRuou\BUL\bin\Debug\DAL.dll
+D:\QuanLyBanRuou\BUL\bin\Debug\DTO.dll
+D:\QuanLyBanRuou\BUL\bin\Debug\DAL.pdb
+D:\QuanLyBanRuou\BUL\bin\Debug\DTO.pdb
+D:\QuanLyBanRuou\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+D:\QuanLyBanRuou\BUL\obj\Debug\BUL.dll
+D:\QuanLyBanRuou\BUL\obj\Debug\BUL.pdb
